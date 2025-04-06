@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amen252
+- 👋 Hi, I’m Mohamed AKA Devmo
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Sceince
 - 💞️ I’m looking to collaborate on everyone
