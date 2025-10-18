@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Mohamed AKA Devmo
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Sceince
-- 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me | 252 618 9720 47 or mohamedtech.dev@gmail.com
+## 👋 Hi, I'm Mohamed Ameen
 
+💻 I'm a **Full Stack MERN Developer** passionate about building fast, secure, and scalable web applications.  
+I love turning ideas into impactful products, writing clean code, and continuously learning new technologies.
 
-<!---
-Amen252/Amen252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Tools:** Git & GitHub, Postman, npm, VS Code  
+- **Other:** JWT Auth, API Integration, MVC Architecture, Deployment (Render / Vercel / Netlify)
+
+### 🌱 What I’m Currently Doing
+- Building full-stack projects using the MERN stack  
+- Strengthening my backend & deployment skills  
+- Contributing to open-source projects
+
+### 🤝 Let’s Connect
+mohamedteh.dev@gmail.com
