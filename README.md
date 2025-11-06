@@ -1,8 +1,9 @@
 ## 👋 Hey there, I'm Mohamed Ameen
 
-🎯 **Full-Stack Developer | MERN Stack  
+🎯 Full-Stack Developer | MERN Stack  
 💻 Passionate about building scalable web and mobile applications with clean code, strong backend logic, and secure authentication systems.  
-🚀 Currently sharpening my skills in **Node.js, Flutter, and PHP**, and working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
+🚀 Currently sharpening my skills in **Node.js, , and **Next.js**, while working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
+
 
 ---
 
