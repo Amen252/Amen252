@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Hi! I'm **Mohamed Ameen**, a final-year student (Semester 7) at **Jamhuuriya University of Science and Technology**.  
+ A final-year student (Semester 7) at **Jamhuuriya University of Science and Technology**.  
 I’m passionate about modern web development, currently focusing on **Next.js** to build dynamic and optimized applications.  
 I enjoy turning ideas into reality through code — always learning, improving, and creating.
 
