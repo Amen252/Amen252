@@ -1,48 +1,46 @@
-## 👋 Hi, I'm Mohamed Ameen
+## 👋 Hey there, I'm Mohamed Ameen
 
-💻 I'm a **Full Stack MERN Developer** passionate about building fast, secure, and scalable web applications.  
-I love turning ideas into impactful products, writing clean code, and continuously learning new technologies.
+🎯 **Full-Stack Developer | MERN Stack  
+💻 Passionate about building scalable web and mobile applications with clean code, strong backend logic, and secure authentication systems.  
+🚀 Currently sharpening my skills in **Node.js, Flutter, and PHP**, and working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
 
-### 🚀 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TailwindCSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Tools:** Git & GitHub, Postman, npm, VS Code  
-- **Other:** JWT Auth, API Integration, MVC Architecture, Deployment (Render / Vercel / Netlify)
+---
 
-### 🌱 What I’m Currently Doing
-- Building full-stack projects using the MERN stack  
-- Strengthening my backend & deployment skills  
-- Contributing to open-source projects
+### 🧩 Tech Stack
 
-### 🧠 Tech Stack
-
-<p align="left">
-  <!-- Frontend -->
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-
-  
-  <!-- Backend -->
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
- 
-  <!-- Database -->
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  
-
-  <!-- Security -->
-  <img title="JWT" src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/>
-  <img title="JOSE Library" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" width="40" height="40"/>
-
-  <!-- API Integration -->
-  <img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img title="Axios" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/axios.svg" width="40" height="40"/>
-</p>
+#### 💻 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🤝 Let’s Connect
-mohamedteh.dev@gmail.com
+#### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+#### 🔐 Authentication & Security
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![JOSE](https://img.shields.io/badge/JOSE%20Library-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+#### 🌐 API Integration
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+### 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amen252)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-a-omar-69a68920a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtech.dev@gmail.com)
+
+---
+
+⭐️ _“Code with purpose, build with passion.”_
