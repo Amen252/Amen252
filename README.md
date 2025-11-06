@@ -1,19 +1,23 @@
 ## 👋 Hey there, I'm Mohamed Ameen
 
-🎯 Full-Stack  MERN Developer 
+🎯 **Full-Stack MERN Developer**  
 💻 Passionate about building scalable web and mobile applications with clean code, strong backend logic, and secure authentication systems.  
-🚀 Currently sharpening my skills in **Node.js, , and **Next.js**, while working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
+🚀 Currently sharpening my skills in **Node.js** and **Next.js**, while working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
 
+---
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
-Hi! I'm Mohamed Ameen, a final-year student (Semester 7) at Jamhuuriya University.
-I’m passionate about modern web development, currently focusing on Next.js to build dynamic and optimized applications.
+Hi! I'm **Mohamed Ameen**, a final-year student (Semester 7) at **Jamhuuriya University of Science and Technology**.  
+I’m passionate about modern web development, currently focusing on **Next.js** to build dynamic and optimized applications.  
 I enjoy turning ideas into reality through code — always learning, improving, and creating.
 
-🎓 University: Jamhuuriya University of Science and Technology
-📘 Currently Learning: Next.js
-🌍 Portfolio: my-portofolio-five-lyart.vercel.app
+🎓 **University:** Jamhuuriya University of Science and Technology  
+📘 **Currently Learning:** Next.js  
+🌍 **Portfolio:** [my-portofolio-five-lyart.vercel.app](https://my-portofolio-five-lyart.vercel.app)
+
+---
+
 ### 🧩 Tech Stack
 
 #### 💻 Frontend
@@ -29,7 +33,6 @@ I enjoy turning ideas into reality through code — always learning, improving, 
 
 #### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 #### 🔐 Authentication & Security
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
