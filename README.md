@@ -5,8 +5,15 @@
 🚀 Currently sharpening my skills in **Node.js, , and **Next.js**, while working with **API integration** and **JWT authentication (via JOSE library)** to create reliable and modern applications.
 
 
----
+👨‍💻 About Me
 
+Hi! I'm Mohamed Ameen, a final-year student (Semester 7) at Jamhuuriya University.
+I’m passionate about modern web development, currently focusing on Next.js to build dynamic and optimized applications.
+I enjoy turning ideas into reality through code — always learning, improving, and creating.
+
+🎓 University: Jamhuuriya University of Science and Technology
+📘 Currently Learning: Next.js
+🌍 Portfolio: my-portofolio-five-lyart.vercel.app
 ### 🧩 Tech Stack
 
 #### 💻 Frontend
