@@ -55,7 +55,8 @@ I enjoy turning ideas into reality through code — always learning, improving, 
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amen252&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Amen252)
+
 
 
 ⭐️ _“Code with purpose, build with passion.”_
