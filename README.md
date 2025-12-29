@@ -25,11 +25,19 @@ Passionate about modern web development and turning ideas into real products.
 
 ---
 
-### 📫 Connect With Me
+## 🚀Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amen252)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-a-omar-69a68920a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedtech.dev@gmail.com)
+<p align="center">
+  <a href="https://github.com/Amen252" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" />
+  </a>
+  <a href="mailto:mohamedtech.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-a-omar-69a68920a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
+  </a>
+</p>
 
 ---
 
