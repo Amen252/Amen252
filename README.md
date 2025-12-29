@@ -54,8 +54,8 @@ I enjoy turning ideas into reality through code — always learning, improving, 
 ---
 
 ## 🔥 GitHub Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen252" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Amen252)
 
 
 
