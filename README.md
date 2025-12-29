@@ -17,13 +17,11 @@ Passionate about modern web development and turning ideas into real products.
 
 ---
 
-### 🧩 Tech Stack
+## 🛠 Tech Stack & Tools
 
-**Frontend:** HTML, CSS, JavaScript, React, Next.js  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Auth:** JWT (JOSE)  
-**API:** REST, Axios, Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,,mongodb,vscode,git,github&theme=dark" />
+</p>
 
 ---
 
