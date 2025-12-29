@@ -20,7 +20,7 @@ Passionate about modern web development and turning ideas into real products.
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,,mongodb,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,vscode,git,github&theme=dark" />
 </p>
 
 ---
