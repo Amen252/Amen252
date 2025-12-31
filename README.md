@@ -42,7 +42,8 @@ Passionate about modern web development and turning ideas into real products.
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amen252&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amen252)
+
 
 
 ⭐️ _Code with purpose, build with passion._
