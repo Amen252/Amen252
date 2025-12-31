@@ -1,11 +1,8 @@
 ## 👋 Hey there, I'm Mohamed Ameen
 
 🎯 **Full-Stack MERN Developer**  
-💻 I build scalable web applications with clean code, strong backend logic, and secure authentication.  
-🚀 Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authentication (JOSE)**.
-🎓 **University:** Jamhuuriya University of Science and Technology  
-📘 **Currently Learning:** Next.js  
-🌍 **Portfolio:** [my-portofolio-five-lyart.vercel.app](https://my-portofolio-five-lyart.vercel.app)
+ I build scalable web applications with clean code, strong backend logic, and secure authentication.  
+Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authentication (JOSE)**.
 
 ---
 
