@@ -3,19 +3,14 @@
 🎯 **Full-Stack MERN Developer**  
 💻 I build scalable web applications with clean code, strong backend logic, and secure authentication.  
 🚀 Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authentication (JOSE)**.
-
----
-
-### 👨‍💻 About Me
-
-Final-year student (Semester 7) at **Jamhuuriya University of Science and Technology**.  
-Passionate about modern web development and turning ideas into real products.
-
 🎓 **University:** Jamhuuriya University of Science and Technology  
 📘 **Currently Learning:** Next.js  
 🌍 **Portfolio:** [my-portofolio-five-lyart.vercel.app](https://my-portofolio-five-lyart.vercel.app)
 
 ---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amen252&cache_seconds=86400)
 
 ## 🛠 Tech Stack & Tools
 
@@ -41,8 +36,7 @@ Passionate about modern web development and turning ideas into real products.
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amen252&cache_seconds=86400)
+
 
 
 
