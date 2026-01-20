@@ -12,7 +12,7 @@ Currently mastering **Next.js** and advanced **Node.js** patterns.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
