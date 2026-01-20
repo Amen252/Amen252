@@ -7,12 +7,12 @@ Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authe
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amen252 Stats" height="150" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amen252 Stats" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amen252&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen252&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen252&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
