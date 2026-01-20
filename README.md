@@ -4,12 +4,11 @@
 Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authentication (JOSE)**.
 
 ---
-
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true" alt="Amen252's Stats" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amen252's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="center">
