@@ -1,44 +1,34 @@
 ## 👋 Hey there, I'm Mohamed Ameen
 
-🎯 **Full-Stack MERN Developer** I build scalable web applications with clean code, strong backend logic, and secure authentication.  
-Currently focusing on **Node.js**, **Next.js**, API integration, and **JWT authentication (JOSE)**.
-
----
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Amen252 Stats" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amen252&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen252&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
-</p>
+🎯 **Full-Stack MERN Developer** specializing in scalable web apps, clean code, and secure **JWT (JOSE)** authentication.  
+Currently mastering **Next.js** and advanced **Node.js** patterns.
 
 ---
 
-## 🛠 Tech Stack & Tools
+### 📊 Performance & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amen252&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,vscode,git,github&theme=dark" />
 </p>
 
 ---
 
-## 🚀 Connect With Me
-
+### 🚀 Connect
 <p align="center">
-  <a href="https://github.com/Amen252" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" />
-  </a>
-  <a href="mailto:mohamedtech.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-a-omar-69a68920a" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" />
-  </a>
+  <a href="https://github.com/Amen252"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" /></a>
+  <a href="mailto:mohamedtech.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-a-omar-69a68920a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" /></a>
 </p>
 
----
-
-⭐️ _Code with purpose, build with passion._
+<p align="center">⭐️ <i>Code with purpose, build with passion.</i></p>
