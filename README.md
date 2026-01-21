@@ -5,7 +5,7 @@ Currently mastering **Next.js** and advanced **Node.js** patterns.
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Stats & Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amen252&show_icons=true&theme=transparent&hide_border=true&title_color=3182ce&text_color=ffffff&icon_color=3182ce&count_private=true" height="165" />
@@ -13,11 +13,7 @@ Currently mastering **Next.js** and advanced **Node.js** patterns.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amen252&theme=transparent&hide_border=true&stroke=3182ce&ring=3182ce&fire=3182ce&currStreakLabel=3182ce" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amen252&theme=react-dark&bg_color=0d1117&hide_border=true&color=3182ce&line=3182ce&point=ffffff&area=true&hide_grid=true" width="850" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen252&theme=dark&hide_border=true&stroke=3182ce&ring=3182ce&fire=3182ce&currStreakLabel=3182ce" alt="GitHub Streak" height="165" />
 </p>
 
 ---
