@@ -3,7 +3,6 @@
 🎯 **Full-Stack MERN Developer** specializing in scalable web apps, clean code, and secure **JWT (JOSE)** authentication.  
 Currently mastering **Next.js** and advanced **Node.js** patterns.
 
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amen252&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
