@@ -1,9 +1,10 @@
-## 👋 Hey there, I'm Mohamed Ameen
+## 👋 Hey, I'm Mohamed A.Omar
 
-🎯 **Full-Stack MERN Developer** specializing in scalable web apps, clean code, and secure **JWT (JOSE)** authentication.  
-Currently mastering **Next.js** and advanced **Node.js** patterns.
+🎯 **Full-Stack MERN Developer** building production-grade web apps with clean architecture, role-based access control, and secure **JWT (jose)** authentication.
 
----
+I've shipped real products — from a **Somali poetry platform** to a **university thesis management system** — and I care deeply about code that scales, systems that make sense, and experiences that actually work for users.
+
+Currently leveling up in **Next.js** and advanced **Node.js** patterns.
 
 ### 📊 Stats & Performance
 
